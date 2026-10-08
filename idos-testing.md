@@ -66,7 +66,7 @@
 
 **Test steps:**
 * Type "R2-D2" into the "FROM" input field.
-* Type "C3-P0" into the "TO" input field.
+* Type "C-3PO" into the "TO" input field.
 * Press Enter.
 
 **Expected Result:**
