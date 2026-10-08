@@ -4,4 +4,4 @@ Welcome to my manual testing portfolio. This repository contains structured test
 
 **Projects:**
 
-* [IDOS.cz - Timetable Search Functionality](./idos-testing.md) - Complete test suite covering valid routes, browser cache behavior, and date limits.
+* [IDOS.cz](./idos-testing.md) - Complete test suite covering valid routes, browser cache behavior, and date limits.
