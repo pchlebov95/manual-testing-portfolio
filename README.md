@@ -7,3 +7,5 @@ Welcome to my manual testing portfolio. This repository contains structured test
 * [IDOS.cz](./idos-testing.md) - Complete test suite covering valid routes, browser cache behavior, and date limits.
   
 * [Alza.cz](./alza_cart_testing.md) - Test suite focused on e-commerce logic, shopping cart operations, and input validation for discount codes.
+
+* API Testing (Python) – Automated script testing REST API status codes and JSON data validation.
