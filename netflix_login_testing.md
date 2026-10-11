@@ -20,7 +20,7 @@
 
 **Test Steps:**
 * Click on the button "Přihlásit se".
-* Type "test@emajl.cz" into the email input field.
+* Type "test@email.cz" into the email input field.
 * Click on the button "Pokračovat".
 
 **Expected Result:**
