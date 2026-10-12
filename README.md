@@ -4,7 +4,7 @@ Welcome to my manual testing portfolio. This repository contains structured test
 
 **Projects:**
 
-API Testing (Python) – Automated script testing REST API status codes, deep JSON data structures, and nested object validation (names, emails, addresses).
+API Testing (Python) – An automated test that checks if the server communication works correctly. The script can load users, create a new one, verify their details (name, email, address), and safely delete them afterward.
 
 * [IDOS](./idos-testing.md) - Complete test suite covering valid routes, browser cache behavior, and date limits.
   
